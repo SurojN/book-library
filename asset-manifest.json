@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/book-library/static/css/main.0febfc2c.css",
+    "main.js": "/book-library/static/js/main.16db3679.js",
+    "static/media/p24.jpg": "/book-library/static/media/p24.e7701907a34aa05a6858.jpg",
+    "static/media/p17.jpg": "/book-library/static/media/p17.48a084faa7ce268a74b9.jpg",
+    "static/media/p14.jpg": "/book-library/static/media/p14.be1111dbe59078fcd685.jpg",
+    "static/media/p2.jpg": "/book-library/static/media/p2.8013d4262d90db563d8e.jpg",
+    "static/media/p11.jpg": "/book-library/static/media/p11.4e2ee2e1633ca64914d3.jpg",
+    "static/media/p10.jpg": "/book-library/static/media/p10.74bbeb7131a8a06ed7eb.jpg",
+    "static/media/p15.jpg": "/book-library/static/media/p15.98c3f12d2a7b3fbd47c8.jpg",
+    "static/media/p8.jpg": "/book-library/static/media/p8.cbc36012b45820ed51e7.jpg",
+    "static/media/p7.jpg": "/book-library/static/media/p7.cd2d3139ba072120a355.jpg",
+    "static/media/p13.jpg": "/book-library/static/media/p13.0ba7691979659c6ce832.jpg",
+    "static/media/p1.jpg": "/book-library/static/media/p1.e166bd9acd4794c41de4.jpg",
+    "static/media/p22.jpg": "/book-library/static/media/p22.2b37f40a13378837f4d8.jpg",
+    "static/media/p9.jpg": "/book-library/static/media/p9.b6a54bb1fe316da02a2b.jpg",
+    "static/media/p4.jpg": "/book-library/static/media/p4.061fbdb5806eab7ac47b.jpg",
+    "static/media/p16.jpg": "/book-library/static/media/p16.f9186f5f3e681f813ecc.jpg",
+    "static/media/p25.jpg": "/book-library/static/media/p25.752c5e07750c861b5ae5.jpg",
+    "static/media/p3.jpg": "/book-library/static/media/p3.5c364b7c0dddfdbb13ef.jpg",
+    "static/media/p21.jpg": "/book-library/static/media/p21.148c7a61b48bc1d1a174.jpg",
+    "index.html": "/book-library/index.html",
+    "main.0febfc2c.css.map": "/book-library/static/css/main.0febfc2c.css.map",
+    "main.16db3679.js.map": "/book-library/static/js/main.16db3679.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0febfc2c.css",
+    "static/js/main.16db3679.js"
+  ]
+}
